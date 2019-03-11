@@ -1,5 +1,6 @@
 # Welcome to the Tropicraft Wiki!
 
+Eventually there'll be content here, hold tight!
 
 ## Section 1
 
