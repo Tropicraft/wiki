@@ -2,9 +2,9 @@
 
 Eventually there'll be content here, hold tight!
 
-## Section 1
+## Lore
 
-Something something Nigel
+Basically, Nigel
 
 
 ## Section 2
